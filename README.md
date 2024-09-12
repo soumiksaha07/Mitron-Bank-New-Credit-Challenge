@@ -1,2 +1,2 @@
-# Mitron-Bank-New-Credit-Challenge
+# Mitron-Bank-New-CreditCard-Challenge
 Power BI Dashboard
