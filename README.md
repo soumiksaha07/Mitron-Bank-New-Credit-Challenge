@@ -45,17 +45,17 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 ### Customers Demographic
 #### [🔁Home](#table-of-content)
 
-![sc](https://github.com/soumiksaha07/Mitron-Bank-New-CreditCard-Challenge/blob/main/Screenshot%202024-09-13%20133321.png)
+![sc](https://github.com/soumiksaha07/Mitron-Bank-New-CreditCard-Challenge/blob/main/Dashboard%20Glimpse/Screenshot%202024-09-13%20133321.png)
 
 ### Income Utilization and Customers Spending Pattern
 ##### [🔁Home](#table-of-content)
 
-![sc](https://github.com/soumiksaha07/Mitron-Bank-New-CreditCard-Challenge/blob/main/Screenshot%202024-09-13%20133340.png)
+![sc](https://github.com/soumiksaha07/Mitron-Bank-New-CreditCard-Challenge/blob/main/Dashboard%20Glimpse/Screenshot%202024-09-13%20133340.png)
 
 ### Customers Cards Usage Analysis
 ##### [🔁Home](#table-of-content)
 
-![sc](https://github.com/soumiksaha07/Mitron-Bank-New-CreditCard-Challenge/blob/main/Screenshot%202024-09-13%20133400.png)
+![sc](https://github.com/soumiksaha07/Mitron-Bank-New-CreditCard-Challenge/blob/main/Dashboard%20Glimpse/Screenshot%202024-09-13%20133400.png)
 
 ### Recommendation for next Credit Card
 ##### [🔁Home](#table-of-content)
