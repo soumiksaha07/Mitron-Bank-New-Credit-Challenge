@@ -2,7 +2,7 @@
 # Mitron Bank: Analysis for New Credit Card Launch 
 
 ## Created by- Soumik Saha @Aspiring Data Analyst [Linkeldin Profile](https://www.linkedin.com/in/soumiksaha07/)
-### Live Dashboard at Power BI Service [View Dashboard](https://www.novypro.com/project/mitron-bank-credit-card-analysis-crpc8-by---saddam-ansari)
+### Live Dashboard at Power BI Service [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY0ZjQzYjItZjdhNy00OGYwLWI2MTUtN2YwMzJhZDkyMjM1IiwidCI6IjYwMzM3M2YyLWIwOTctNGZhMS05MjRlLTUwZGMwOTI4NDYyMCJ9)
 <!-- ### Presentation ppt at Canva [Link](https://www.canva.com/design/DAF4cPSsnUU/14YqtWQOic0R7VCEVx8T6w/edit?utm_content=DAF4cPSsnUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) -->
 
 #
@@ -43,18 +43,21 @@ The objective is to analyze this data and provide actionable, data-driven recomm
  * Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
 
 ### Customers Demographic
-[🔁Home](#table-of-content)
+#### [🔁Home](#table-of-content)
 
+![sc](https://github.com/soumiksaha07/Mitron-Bank-New-CreditCard-Challenge/blob/main/Screenshot%202024-09-13%20133321.png)
 
 ### Income Utilization and Customers Spending Pattern
-[🔁Home](#table-of-content)
+##### [🔁Home](#table-of-content)
 
+![sc](https://github.com/soumiksaha07/Mitron-Bank-New-CreditCard-Challenge/blob/main/Screenshot%202024-09-13%20133340.png)
 
 ### Customers Cards Usage Analysis
-[🔁Home](#table-of-content)
+##### [🔁Home](#table-of-content)
 
+![sc](https://github.com/soumiksaha07/Mitron-Bank-New-CreditCard-Challenge/blob/main/Screenshot%202024-09-13%20133400.png)
 
 ### Recommendation for next Credit Card
-[🔁Home](#table-of-content)
+##### [🔁Home](#table-of-content)
 
 
