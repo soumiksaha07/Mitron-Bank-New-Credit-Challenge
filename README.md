@@ -9,13 +9,12 @@
 ## Table of Content
 1. [About Mitron Bank](#about-mitron-bank)
 2. [Objective of the Project](#objective-of-the-project)
-3. [Problem Statment](#problem-statment)
-4. [Customers Demographic](#customers-demographic)
-5. [Income Utilization and Customers Spending Pattern](#income-utilization-and-customers-spending-pattern)
-6. [Customers Cards Usage Analysis](#customers-cards-usage-analysis)
-7. [Recommendation for next Credit Card](#recommendation-for-next-credit-card)
-
-
+3. [Problem Statement](#problem-statement)
+4. [Key Takeways](#key-takeways)
+5. [Customers Demographic](#customers-demographic)
+6. [Income Utilization and Customers Spending Pattern](#income-utilization-and-customers-spending-pattern)
+7. [Customers Cards Usage Analysis](#customers-cards-usage-analysis)
+8. [Recommendation for next Credit Card](#recommendation-for-next-credit-card)
 
 
 #
@@ -27,20 +26,27 @@ Mitron Bank is a legacy financial institution headquartered in Hyderabad. They w
 ### Objective of the Project 
  [🔁Home](#table-of-content)
 
-The objective is to analyze this data and provide actionable, data-driven recommendations to guide Mitron Bank in tailoring the new credit cards to customer needs and market trends. 
+The objective is to analyze this data and provide actionable, data-driven recommendations to guide Mitron Bank in tailoring the new credit cards to customer needs and market trends.
 
-### Problem Statment   
+### Problem Statement   
+[🔁Home](#problem-statement)
+
+- The strategy director of Mitron Bank, Mr.Bashnir Rover is skeptical and asked Atliq Data Services to do a pilot project with the sample data before handing them the full project. They provided a sample dataset of 4000 customers across five cities on their online spend and other details.
+
+- Peter Pandey is a data analyst at AtliQ Data Services was assigned to do this project. His role is to analyse the provided sample data and report key findings to the strategy team of Mitron Bank. This analysis is expected to guide them in tailoring the credit cards to customer needs and market trends.
+
+### Key Takeways   
 [🔁Home](#table-of-content)
 
- * Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
+- Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
    
- * Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their likelihood to use credit cards.
+- Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their likelihood to use credit cards.
    
- * Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? This can help you to add relevant credit card features for specific target groups.
+- Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? This can help you to add relevant credit card features for specific target groups.
 
- * Key Customer Segments: By doing above, you should be able to identify and profile key customer segments that are likely to be the highest-value users of the new credit cards. This includes understanding their demographics, spending behaviours, and financial preferences. 
+- Key Customer Segments: By doing above, you should be able to identify and profile key customer segments that are likely to be the highest-value users of the new credit cards. This includes understanding their demographics, spending behaviours, and financial preferences. 
 
- * Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
+- Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
 
 ### Customers Demographic
 #### [🔁Home](#table-of-content)
